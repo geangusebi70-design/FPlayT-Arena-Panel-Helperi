@@ -1,6 +1,6 @@
 // Configurația aplicației web Firebase pentru Evidență Helperi.
 window.FIREBASE_CONFIG = {
-  apiKey: "AIzaSyCIDXpEpmwQhrV9WXWxiaYKIgEZU2Tr4",
+  apiKey: "AIzaSyCIDXpEpmymwQhrV9WXWxiaYKIgEZU2Tr4",
   authDomain: "fplayt-arena-panel-helperi.firebaseapp.com",
   projectId: "fplayt-arena-panel-helperi",
   storageBucket: "fplayt-arena-panel-helperi.firebasestorage.app",
